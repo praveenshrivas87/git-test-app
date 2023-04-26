@@ -17,6 +17,7 @@ public class GitTestAppApplication {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Test for phase2");
 		SpringApplication.run(GitTestAppApplication.class, args);
 	}
 }
